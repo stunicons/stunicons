@@ -15,5 +15,11 @@
   ],
   "main": " ",
   "author": "Ntwari Clarance Liberiste",
-  "license": "MIT"
+  "license": "MIT",
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/stunnity/stunicons.git"
+  },
+  "bugs": "https://github.com/stunnity/stunicons/issues",
+  "contributors": ["Ntwari Clarance Liberiste <liberintwari@gmail.com>"]
 }
