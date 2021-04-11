@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "description": "Stunning icons for your next web project",
   "keywords": [
-    "stunnity", "stunicon", "stun", "icons", "icon pack", "icon font", "icon library"
+    "stunnity", "stunicon", "stun", "icons", "web-icon" , "icon pack", "icon font", "icon library"
   ],
   "files": [
     "fonts/",
     "icons/",
     "License",
     "package.json",
-    "README_CN.md",
     "README.md"
   ],
   "main": " ",
