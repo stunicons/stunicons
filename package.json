@@ -1,0 +1,19 @@
+{
+  "name": "stunicons",
+  "version": "1.0.0",
+  "description": "Stunning icons for your next web project",
+  "keywords": [
+    "stunnity", "stunicon", "stun", "icons", "icon pack", "icon font", "icon library"
+  ],
+  "files": [
+    "fonts/",
+    "icons/",
+    "License",
+    "package.json",
+    "README_CN.md",
+    "README.md"
+  ],
+  "main": " ",
+  "author": "Ntwari Clarance Liberiste",
+  "license": "MIT"
+}
