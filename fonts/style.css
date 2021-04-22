@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('fonts/stunicons.eot?fmoh2o');
-  src:  url('fonts/stunicons.eot?fmoh2o#iefix') format('embedded-opentype'),
-    url('fonts/stunicons.ttf?fmoh2o') format('truetype'),
-    url('fonts/stunicons.woff?fmoh2o') format('woff'),
-    url('fonts/stunicons.svg?fmoh2o#stunicons') format('svg');
+  src:  url('stunicons.eot?fmoh2o');
+  src:  url('stunicons.eot?fmoh2o#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?fmoh2o') format('truetype'),
+    url('stunicons.woff?fmoh2o') format('woff'),
+    url('stunicons.svg?fmoh2o#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
