@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'stunicon';
-  src:  url('stunicon.eot?bosgbt');
-  src:  url('stunicon.eot?bosgbt#iefix') format('embedded-opentype'),
-    url('stunicon.ttf?bosgbt') format('truetype'),
-    url('stunicon.woff?bosgbt') format('woff'),
-    url('stunicon.svg?bosgbt#stunicon') format('svg');
+  font-family: 'stunicons';
+  src:  url('fonts/stunicons.eot?fmoh2o');
+  src:  url('fonts/stunicons.eot?fmoh2o#iefix') format('embedded-opentype'),
+    url('fonts/stunicons.ttf?fmoh2o') format('truetype'),
+    url('fonts/stunicons.woff?fmoh2o') format('woff'),
+    url('fonts/stunicons.svg?fmoh2o#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,9 +12,8 @@
 
 i {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'stunicon' !important;
+  font-family: 'stunicons' !important;
   speak: never;
-  font-size:24px;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -29,18 +28,27 @@ i {
 .si-arrow-bottom-left-o:before {
   content: "\e900";
 }
-.si-chevron-down:before {
+.si-arrow-down:before {
   content: "\e901";
 }
-.si-folder:before {
+.si-chevron-down:before {
   content: "\e902";
 }
-.si-plus:before {
+.si-folder:before {
   content: "\e903";
 }
-.si-search:before {
+.si-home:before {
   content: "\e904";
 }
-.si-Vector:before {
+.si-notification:before {
   content: "\e905";
+}
+.si-plus:before {
+  content: "\e906";
+}
+.si-search:before {
+  content: "\e907";
+}
+.si-vector:before {
+  content: "\e908";
 }
