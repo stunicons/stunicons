@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('stunicons.eot?fmoh2o');
-  src:  url('stunicons.eot?fmoh2o#iefix') format('embedded-opentype'),
-    url('stunicons.ttf?fmoh2o') format('truetype'),
-    url('stunicons.woff?fmoh2o') format('woff'),
-    url('stunicons.svg?fmoh2o#stunicons') format('svg');
+  src:  url('stunicons.eot?r0518y');
+  src:  url('stunicons.eot?r0518y#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?r0518y') format('truetype'),
+    url('stunicons.woff?r0518y') format('woff'),
+    url('stunicons.svg?r0518y#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,33 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.si-logo-github15stroke-18:before {
+  content: "\e909";
+}
+.si-logo-github:before {
+  content: "\e90a";
+}
+.si-youtube-16:before {
+  content: "\e90b";
+}
+.si-logo-twitter:before {
+  content: "\e90c";
+}
+.si-logo-facebook:before {
+  content: "\e90d";
+}
+.si-logo-instagram:before {
+  content: "\e90e";
+}
+.si-message:before {
+  content: "\e90f";
+}
+.si-home:before {
+  content: "\e910";
+}
+.folder:before {
+  content: "\e911";
+}
 .si-arrow-bottom-left-o:before {
   content: "\e900";
 }
@@ -37,7 +64,7 @@ i {
 .si-folder:before {
   content: "\e903";
 }
-.si-home:before {
+.si-home1:before {
   content: "\e904";
 }
 .si-notification:before {
