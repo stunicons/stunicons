@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('stunicons.eot?gjqocz');
-  src:  url('stunicons.eot?gjqocz#iefix') format('embedded-opentype'),
-    url('stunicons.ttf?gjqocz') format('truetype'),
-    url('stunicons.woff?gjqocz') format('woff'),
-    url('stunicons.svg?gjqocz#stunicons') format('svg');
+  src:  url('stunicons.eot?u6gw70');
+  src:  url('stunicons.eot?u6gw70#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?u6gw70') format('truetype'),
+    url('stunicons.woff?u6gw70') format('woff'),
+    url('stunicons.svg?u6gw70#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,36 +25,6 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.si-message-01:before {
-  content: "\e912";
-}
-.si-logo-github15stroke-18:before {
-  content: "\e909";
-}
-.si-logo-github:before {
-  content: "\e90a";
-}
-.si-youtube-16:before {
-  content: "\e90b";
-}
-.si-logo-twitter:before {
-  content: "\e90c";
-}
-.si-logo-facebook:before {
-  content: "\e90d";
-}
-.si-logo-instagram:before {
-  content: "\e90e";
-}
-.si-message:before {
-  content: "\e90f";
-}
-.si-home:before {
-  content: "\e910";
-}
-.folder:before {
-  content: "\e911";
-}
 .si-arrow-bottom-left-o:before {
   content: "\e900";
 }
@@ -67,18 +37,33 @@ i {
 .si-folder:before {
   content: "\e903";
 }
-.si-home1:before {
+.si-home:before {
   content: "\e904";
 }
-.si-notification:before {
+.si-logo-github:before {
   content: "\e905";
 }
-.si-plus:before {
+.si-logo-github15stroke-18:before {
   content: "\e906";
 }
-.si-search:before {
+.si-message-01:before {
   content: "\e907";
 }
-.si-vector:before {
+.si-notification:before {
   content: "\e908";
+}
+.si-plus:before {
+  content: "\e909";
+}
+.si-search:before {
+  content: "\e90a";
+}
+.si-vector:before {
+  content: "\e90b";
+}
+.si-home-test-02:before {
+  content: "\e90c";
+}
+.si-message-test-01:before {
+  content: "\e90d";
 }
