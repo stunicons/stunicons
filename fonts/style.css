@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('stunicons.eot?u6gw70');
-  src:  url('stunicons.eot?u6gw70#iefix') format('embedded-opentype'),
-    url('stunicons.ttf?u6gw70') format('truetype'),
-    url('stunicons.woff?u6gw70') format('woff'),
-    url('stunicons.svg?u6gw70#stunicons') format('svg');
+  src:  url('stunicons.eot?1p1de7');
+  src:  url('stunicons.eot?1p1de7#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?1p1de7') format('truetype'),
+    url('stunicons.woff?1p1de7') format('woff'),
+    url('stunicons.svg?1p1de7#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,45 +25,18 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.si-arrow-bottom-left-o:before {
+.si-home:before {
   content: "\e900";
 }
-.si-arrow-down:before {
+.si-menu-bar:before {
   content: "\e901";
 }
-.si-chevron-down:before {
+.si-plus:before {
   content: "\e902";
 }
-.si-folder:before {
+.si-search:before {
   content: "\e903";
 }
-.si-home:before {
+.si-user:before {
   content: "\e904";
-}
-.si-logo-github:before {
-  content: "\e905";
-}
-.si-logo-github15stroke-18:before {
-  content: "\e906";
-}
-.si-message-01:before {
-  content: "\e907";
-}
-.si-notification:before {
-  content: "\e908";
-}
-.si-plus:before {
-  content: "\e909";
-}
-.si-search:before {
-  content: "\e90a";
-}
-.si-vector:before {
-  content: "\e90b";
-}
-.si-home-test-02:before {
-  content: "\e90c";
-}
-.si-message-test-01:before {
-  content: "\e90d";
 }
