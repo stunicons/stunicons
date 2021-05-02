@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('stunicons.eot?88t7z9');
-  src:  url('stunicons.eot?88t7z9#iefix') format('embedded-opentype'),
-    url('stunicons.ttf?88t7z9') format('truetype'),
-    url('stunicons.woff?88t7z9') format('woff'),
-    url('stunicons.svg?88t7z9#stunicons') format('svg');
+  src:  url('stunicons.eot?mhygoh');
+  src:  url('stunicons.eot?mhygoh#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?mhygoh') format('truetype'),
+    url('stunicons.woff?mhygoh') format('woff'),
+    url('stunicons.svg?mhygoh#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.si-youtube:before {
+  content: "\e922";
+}
 .si-arrow-down:before {
   content: "\e905";
 }
@@ -111,9 +114,6 @@ i {
 }
 .si-video:before {
   content: "\e921";
-}
-.si-youTube:before {
-  content: "\e922";
 }
 .si-home:before {
   content: "\e900";
