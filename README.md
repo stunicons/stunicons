@@ -11,7 +11,8 @@ Burgeoning pack with 30+ highly customizable icons for your outstanding UI.
 
 CDN
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/stunicons@1.0.11/fonts/style.css"> //or
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/stunicons@1.0.11/fonts/style.css"> 
+// or
 <link rel="stylesheet" href="https://unpkg.com/stunicons@1.0.11/fonts/style.css"> 
 ```   
 
