@@ -1,8 +1,9 @@
 ![Stunicons](https://res.cloudinary.com/dawr8i20o/image/upload/v1620109434/stunnity/stunicons/cdn/stunicons_logo-favicon-02_p3tstz.png)
 # Stunicons
 
-![npm](https://img.shields.io/npm/v/stunicons.svg?style=flat-square)![NPM Downloads](https://img.shields.io/npm/dw/stunicons)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![npm](https://img.shields.io/npm/v/stunicons.svg?style=flat-square)
+![NPM Downloads](https://img.shields.io/npm/dw/stunicons?style=flat-square)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=flat-square)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 Burgeoning pack with 30+ 3-styled highly customizable icons for your outstanding UI.
 
