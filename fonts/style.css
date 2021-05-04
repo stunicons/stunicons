@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stunicons';
-  src:  url('stunicons.eot?reudv2');
-  src:  url('stunicons.eot?reudv2#iefix') format('embedded-opentype'),
-    url('stunicons.ttf?reudv2') format('truetype'),
-    url('stunicons.woff?reudv2') format('woff'),
-    url('stunicons.svg?reudv2#stunicons') format('svg');
+  src:  url('stunicons.eot?fyvztp');
+  src:  url('stunicons.eot?fyvztp#iefix') format('embedded-opentype'),
+    url('stunicons.ttf?fyvztp') format('truetype'),
+    url('stunicons.woff?fyvztp') format('woff'),
+    url('stunicons.svg?fyvztp#stunicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -115,52 +115,52 @@ i {
 .si-location-on:before {
   content: "\e91d";
 }
-.si-logo-twitter:before {
+.si-menu-bar:before {
   content: "\e91e";
 }
-.si-menu-bar:before {
+.si-mic:before {
   content: "\e91f";
 }
-.si-mic:before {
+.si-moon:before {
   content: "\e920";
 }
-.si-moon:before {
+.si-more-horizontal:before {
   content: "\e921";
 }
-.si-more-horizontal:before {
+.si-more-vertical:before {
   content: "\e922";
 }
-.si-more-vertical:before {
+.si-movie:before {
   content: "\e923";
 }
-.si-movie:before {
+.si-phone:before {
   content: "\e924";
 }
-.si-phone:before {
+.si-plus:before {
   content: "\e925";
 }
-.si-plus:before {
+.si-search:before {
   content: "\e926";
 }
-.si-search:before {
+.si-settings:before {
   content: "\e927";
 }
-.si-settings:before {
+.si-share:before {
   content: "\e928";
 }
-.si-share:before {
+.si-slack:before {
   content: "\e929";
 }
-.si-slack:before {
+.si-star:before {
   content: "\e92a";
 }
-.si-star:before {
+.si-thumbs-down:before {
   content: "\e92b";
 }
-.si-thumbs-down:before {
+.si-thumbs-up:before {
   content: "\e92c";
 }
-.si-thumbs-up:before {
+.si-twitter:before {
   content: "\e92d";
 }
 .si-upload:before {
