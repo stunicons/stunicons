@@ -1,19 +1,71 @@
+![Stunicons](https://res.cloudinary.com/dawr8i20o/image/upload/v1620109434/stunnity/stunicons/cdn/stunicons_logo-favicon-02_p3tstz.png)
+# Stunicons
 
-# stunicons
+![npm](https://img.shields.io/npm/v/stunicons.svg?style=flat-square)![NPM Downloads](https://img.shields.io/npm/dw/stunicons)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-stunning icons for your next project, simple light and clean icons
-
+Burgeoning pack with 30+ highly 3-styled customizable icons for your outstanding UI.
 
 ## Installation 
 
-Install stunicons with yarn
-
-```bash 
-  yarn add stunicons
+NPM
+```bash
+npm i stunicons
 ```
 
-Install stunicons with npm
-
-```bash 
-  npm install stunicons
+YARN
+```bash
+yarn add stunicons
 ```
+
+## Documentation
+
+
+After successful installation, Import the icon font in your global css file.
+```bash
+import '/node-modules/stunicons/fonts/style.css'
+```
+  
+Then, In your html
+```bash
+<i class="si-home">
+```
+  
+## Usage/Examples
+
+```javascript
+<style>
+    import '/node-modules/stunicons/fonts/style.css';
+</style>
+
+<div class="icon">
+    <i class="si-home"> 
+</div>
+```
+  
+## Demo
+
+[Stunicons Mashup](https://github.com/Stunnity/stunicons-mashup) 
+  
+  
+## Icon Request
+
+If you have any icon-request, please reach out to us by opening an issue [here](https://github.com/Stunnity/stunicons/issues/new).
+
+Check out a sample [issue](https://github.com/Stunnity/stunicons/issues/2) here.
+
+  
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+  
+## Epilogue
+
+Made by [Stunnity](https://www.github.com/Stunnity) !
+
+  
