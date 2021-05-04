@@ -8,6 +8,12 @@ Burgeoning pack with 30+ 3-styled highly customizable icons for your outstanding
 
 ## Installation 
 
+CDN
+```bash
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/stunicons@1.0.11/fonts/style.css"> //or
+<link rel="stylesheet" href="https://unpkg.com/stunicons@1.0.11/fonts/style.css"> 
+```   
+
 NPM
 ```bash
 npm i stunicons
@@ -30,7 +36,9 @@ Then, In your html
 ```bash
 <i class="si-home">
 ```
+
   
+
 ## Usage/Examples
 
 ```javascript
