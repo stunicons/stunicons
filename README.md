@@ -30,7 +30,7 @@ yarn add stunicons
 
 
 After successful installation, Import the icon font in your global css file.
-```bash
+```javascript
 import '/node-modules/stunicons/fonts/style.min.css'
 ```
   
