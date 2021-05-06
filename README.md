@@ -35,7 +35,7 @@ import '/node-modules/stunicons/fonts/style.min.css'
 ```
   
 Then, In your html
-```bash
+```javascript
 <i class="si-home"></i>
 ```
 
