@@ -69,7 +69,7 @@ Check out a sample [issue](https://github.com/Stunnity/stunicons/issues/2) here.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [contributing.md](https://github.com/Stunnity/stunicons/blob/main/contributing.md) to get started.
 
 Please adhere to this project's `code of conduct`.
 
