@@ -36,7 +36,7 @@ import '/node-modules/stunicons/fonts/style.min.css'
   
 Then, In your html
 ```bash
-<i class="si-home">
+<i class="si-home"></i>
 ```
 
   
@@ -49,7 +49,7 @@ Then, In your html
 </style>
 
 <div class="icon">
-    <i class="si-home"> 
+    <i class="si-home"></i>
 </div>
 ```
   
