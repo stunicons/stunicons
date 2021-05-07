@@ -7,6 +7,8 @@ assignees: Daniel-Dukundane, Gustavy
 
 ---
 
+> Note: replace everything here with your content 😎
+> 
 here are tips to include to request icon 
 - icon name 
 - icon photo 
