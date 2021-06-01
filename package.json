@@ -12,7 +12,7 @@
     "package.json",
     "README.md"
   ],
-  "main": " ",
+  "style": "/fonts/style.min.css",
   "author": "Ntwari Clarance Liberiste",
   "license": "MIT",
  "repository": {
