@@ -11,9 +11,9 @@ Burgeoning pack with 30+ highly customizable icons for your outstanding UI.
 
 CDN
 ```bash
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/stunicons@1.0.11/fonts/style.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/stunicons@1.0.11/fonts/style.min.css"> 
 // or
-<link rel="stylesheet" href="https://unpkg.com/stunicons@1.0.11/fonts/style.css"> 
+<link rel="stylesheet" href="https://unpkg.com/stunicons@1.0.11/fonts/style.min.css"> 
 ```   
 
 NPM
@@ -30,13 +30,13 @@ yarn add stunicons
 
 
 After successful installation, Import the icon font in your global css file.
-```bash
-import '/node-modules/stunicons/fonts/style.css'
+```javascript
+import '/node_modules/stunicons/fonts/style.min.css'
 ```
   
 Then, In your html
-```bash
-<i class="si-home">
+```javascript
+<i class="si-home"></i>
 ```
 
   
@@ -45,11 +45,11 @@ Then, In your html
 
 ```javascript
 <style>
-    import '/node-modules/stunicons/fonts/style.css';
+    import '/node-modules/stunicons/fonts/style.min.css';
 </style>
 
 <div class="icon">
-    <i class="si-home"> 
+    <i class="si-home"></i>
 </div>
 ```
   
@@ -69,7 +69,7 @@ Check out a sample [issue](https://github.com/Stunnity/stunicons/issues/2) here.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [contributing.md](https://github.com/Stunnity/stunicons/blob/main/contributing.md) to get started.
 
 Please adhere to this project's `code of conduct`.
 
