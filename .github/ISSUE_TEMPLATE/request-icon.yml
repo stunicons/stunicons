@@ -14,3 +14,5 @@ body:
     id: what-icon-do-you-request
     attributes:
       label: "What icon do you request?"
+      description: "Tell us briefly the name of icon you want, it could be best to have a refference so that it can be ease for designing team?"
+      placeholder: "Tell us what you see!"
