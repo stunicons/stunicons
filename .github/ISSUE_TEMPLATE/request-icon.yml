@@ -1,6 +1,6 @@
 
-name: Requesting Icon
-description: An issue to request an icon
+name: Request Icon
+description: This is issue template to help users to request icon on stunicons
 title: "[Icon]: "
 labels: ["enhancement", "request icon"]
 assignees:
