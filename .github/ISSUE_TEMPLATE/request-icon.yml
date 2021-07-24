@@ -8,8 +8,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this icon request report!
+      value: Thanks for taking the time to fill out this icon request report!
   - type: textarea
     id: what-icon-do-you-request
     attributes:
