@@ -3,3 +3,6 @@ name: Request Icon
 description: An issue to request an icon
 title: "[Icon]: "
 labels: ["enhancement", "request icon"]
+assignees:
+  - Gustavy
+  - Daniel-Dukundane
