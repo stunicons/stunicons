@@ -1,4 +1,6 @@
-![Stunicons](https://res.cloudinary.com/dawr8i20o/image/upload/v1620109434/stunnity/stunicons/cdn/stunicons_logo-favicon-02_p3tstz.png)
+
+<div align="center">  <img align="center"  src="https://res.cloudinary.com/dawr8i20o/image/upload/c_scale,w_200/v1622853410/stunnity/stunicons/cdn/si-logo-web-use-01_ccmr4v.png"> </div>
+
 # Stunicons
 
 ![npm](https://img.shields.io/npm/v/stunicons.svg?style=flat-square)
@@ -31,6 +33,10 @@ yarn add stunicons
 
 After successful installation, Import the icon font in your global css file.
 ```javascript
+import 'stunicons/fonts/style.min.css'
+
+//OR
+
 import '/node_modules/stunicons/fonts/style.min.css'
 ```
   
