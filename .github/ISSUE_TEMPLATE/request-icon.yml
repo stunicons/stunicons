@@ -13,4 +13,4 @@ body:
   - type: textarea
     id: what-icon-do-you-request
     attributes:
-      label: "What icon do you request
+      label: "What icon do you request?"
