@@ -7,7 +7,7 @@
 ![NPM Downloads](https://img.shields.io/npm/dw/stunicons?style=flat-square)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=flat-square)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-Burgeoning pack with 30+ highly customizable icons for your outstanding UI.
+Burgeoning pack with 100+ highly customizable icons for your outstanding UI.
 
 ## Installation 
 
