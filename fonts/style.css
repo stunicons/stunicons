@@ -373,3 +373,7 @@ i {
 .si-zoom-out:before {
   content: "\e974";
 }
+
+.si-bar-chart::before {
+  content: "\e975";
+}
